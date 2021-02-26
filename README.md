@@ -1,5 +1,5 @@
 # Dino
-Basic three.js demo constructing a simple dinosaur model with basic actions
+Three.js simple model performing basic actions
 
 
 Accessible on my website: www.robrose.me/dino.html
