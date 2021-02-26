@@ -2,5 +2,5 @@
 Basic three.js demo constructing a simple dinosaur model with basic actions
 
 
-Accessible on the web at www.robrose.me/dino.html
+Accessible on my website: www.robrose.me/dino.html
 
