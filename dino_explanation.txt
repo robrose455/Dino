@@ -1,0 +1,14 @@
+
+
+Explanation of the Model
+========================
+
+The Three.js scene itself is from your tutorial video
+
+Camera is simply adjusted on the negative z-axis.
+
+The dino is utilizing the "group" feature where you can apply multiple meshes to one group to
+perform a transmation matrix on all parts of the dino. 
+
+You are able to access individual parts ( like the legs during the walk cycle ) to perform individual translations or rotations
+The rest of the actions are utilizing a combination of javascript keyevents and translation and rotation of parts. 
